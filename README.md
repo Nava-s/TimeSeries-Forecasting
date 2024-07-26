@@ -53,7 +53,3 @@ To understand how to start with time series forecasting, we recommend reviewing 
 
 Accurate forecasting is crucial for grocery stores to balance inventory levels, minimize waste, and enhance customer satisfaction. This project simulates real-world forecasting challenges, providing valuable insights and experience in handling time-series data.
 
-## Submission
-
-For each id in the test set, predictions should be formatted in a CSV file as follows:
-
