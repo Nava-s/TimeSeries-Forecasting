@@ -26,8 +26,8 @@ The following key changes were made between the initial and updated versions of 
    - **Version 2:** Focused on a more streamlined approach, incorporating only the holiday dataset and removing outliers. 
 
 2. **Feature Engineering:**
-   - **Version 1:** Included detailed processing of holiday data, outlier removal, and additional features related to time and vacations.
-   - **Version 2:** Simplified feature set by retaining only the most relevant features based on correlation.
+   - **Version 1:** Included detailed processing of holiday data, no outlier removal, and additional features related to time and vacations.
+   - **Version 2:** Simplified feature set by retaining only the most relevant features based on correlation and removed outliers.
 
 3. **Model Changes:**
    - **Version 1:** Used Lasso Regression.
